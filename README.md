@@ -14,7 +14,6 @@
 |---|---|
 | `one_more_puncher_stupid.html` | 当前版本（页面标 v0.4）。单文件，双击用浏览器打开，不联网 |
 | `one_more_puncher_stupid_gen.py` | 生成句库、谐音表和同音同调分组表，写进 HTML 里 `/*@@DATA*/ … /*@@END*/` 之间 |
-| `LICENSE` | MIT |
 
 ## 模式
 
